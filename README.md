@@ -74,3 +74,6 @@ Execute your script to see the stats:bash
 ## project URL
 [server-stats](https://github.com/coxlutalo-ops/server-stats)
 
+
+## Project URL
+https://github.com/coxlutalo-ops/server-stats
